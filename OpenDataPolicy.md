@@ -2,119 +2,27 @@
 # Macc open data policy
   
   
-[Macc open data policy](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.cngllvxcy5qn)
+### Contents
 
-[Overview](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.uh9zosi9iftm)
+[Overview](#overview)
 
-[Intended audiences](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.txn9kv2uz5w7)
+[Open data context](#open-data-context)
 
-[Document history](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.26pjsmqbrh7k)
+[What is open data?](#what-is-open-data)
 
-[Feedback on this policy](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.g1ytr8vuhzox)
+[Our open data commitments](#our-open-data-commitments)
 
-[Document owners](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.qxj4b77hvr3a)
+[Publishing open data at Macc](#publishing-open-data-at-macc)
 
-[Other Macc information policies](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.muoieew7gfk)
+[Using open data at Macc](#using-open-data-at-macc)
 
-[Reuse of this policy](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.61onlwlvj2xo)
+[Data use Code of Conduct](#data-use-code-of-conduct)
 
-[Open data context](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.xn3su0fht360)
+[Appendix 1: Macc open data workflows](#appendix-1-macc-open-data-workflows)
 
-[What is open data?](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.gr8is2p3rudy)
+[Appendix 2: data release table (template)](#appendix-2-data-release-table)
 
-[Why open data?](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.kt3l8dakmd2a)
-
-[Our open data goals](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.i7l4k48test)
-
-[Our open data commitments](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.g4z7o4jiu916)
-
-[We will publish data openly](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.gv3u3u264z8)
-
-[We will use open data](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.4908bc3vjhya)
-
-[We will support those using our data](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.isdiy9cgl4f1)
-
-[We will support the sector with open data](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.43p9ds7199d3)
-
-[Publishing open data at Macc](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.n39lgjoqs9oy)
-
-[Our principles and best practices](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.hgj340hd9uqs)
-
-[Privacy](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.7cjina5yhncr)
-
-[Quality](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.b9zb1vpfptq)
-
-[Meaningful and manageable](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.vzxshtm31nga)
-
-[Encoded](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.mi6037o0cf5a)
-
-[Format](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.gtidoylrwewn)
-
-[Licence](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.2ta30cc7i7mf)
-
-[Documentation](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.7va4anchicvo)
-
-[Available](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.wsn4mrkgnr3t)
-
-[Updated](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.60w9bavxsva5)
-
-[Feedback](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.3qxys0c37uqd)
-
-[Using open data at Macc](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.2futumvroul6)
-
-[Our use of open data sets](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.oy2e1yohqg5k)
-
-[Data release blog](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.8r7yem76f9mb)
-
-[Data analysis blog](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.4ppp0tbbk884)
-
-[Using other datasets](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.lywf0ijta3k2)
-
-[Comments](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.ik7srcy2xijb)
-
-[Data use Code of Conduct](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.yk0duyif8cbe)
-
-[Our expectations of you](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.lbxd3qlzibt)
-
-[Accessing our data](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.qo93wa5o22y7)
-
-[Attribution](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.1oatotenezuc)
-
-[Derivation](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.hepnbbgx8ov8)
-
-[Violations](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.3lda0g43day2)
-
-[Discussion](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.dzhn8v5oesa3)
-
-[Feedback](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.4gwf63eqoojd)
-
-[Appendix 1: Macc open data workflows](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.nuu9udb9hf9c)
-
-[Macc data privacy](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.iha06580v44y)
-
-[Macc data quality criteria](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.a7gppbqm36d4)
-
-[Macc data segmentation](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.jfsc6uuh9olp)
-
-[Data codes checklist](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.k9m0gzia8tlu)
-
-[Data formats checklist](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.lbn8lye94288)
-
-[Macc open data licence](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.pulbo511s29f)
-
-[Macc data publication schedule](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.38tdue7y9qyw)
-
-[Macc open data publishing channels](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.7mq8fiz6zap7)
-
-[Macc open data feedback mechanisms](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.w0q8cokjfxsi)
-
-[Macc attribution checklist](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.kubahzu294ep)
-
-[Appendix 2: data release table (template)](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.cvdkxti86bxp)
-
-[Example: Volunteer data](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.zhx7wvtcbze9)
-
-[Appendix 3: Macc open data sets](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#heading=h.50h1lqxifndr)
+[Appendix 3: Macc open data sets](#appendix-3-macc-open-data-sets)
 
   
   
@@ -147,28 +55,38 @@ This is the first issue of this policy.  It was first published in October 2014
   
 
 ### Feedback on this policy
-Feedback should be provided to Macc via.
+Feedback should be provided to Macc via email - [data@macc.org.uk](mailto:data@macc.org.uk) .
 
   
 
 ### Document owners
-This policy is owned by…
+This policy is owned by the Chief Executive of Macc
 
   
 
 ### Other Macc information policies
-Macc are registered with the Information Commissioner
-
-Macc are a registered organisation XYZ
-
-Our open data policy sits alongside ABC policies
+Macc’s open data policy sits alongside policies around Confidentiality, Equality and Diversity, Social Responsibility, Website Terms of Use and staff terms and conditions. 
 
   
 
 ### Reuse of this policy
 This policy is published under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-[http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) 
+[http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) 
+
+This policy is also available for reuse via our GitHub repository: [https://github.com/MaccData/OpenDataPolicy/](https://github.com/MaccData/OpenDataPolicy/) 
+
+  
+
+### About Macc
+Macc is the working name of Manchester Alliance for Community Care, a charity registered in England and Wales no. 1145921 ([http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithPartB.aspx?RegisteredCharityNumber=1145921&SubsidiaryNumber=0](http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithPartB.aspx?RegisteredCharityNumber=1145921&SubsidiaryNumber=0)) and a company limited by guarantee no. 07788593 ([https://opencorporates.com/companies/gb/07788593](https://opencorporates.com/companies/gb/07788593))
+
+Macc is registered with the Information Commissioner: Z9595019
+
+Registered office Swan Buildings, 20 Swan Street, Manchester M4 5JW
+
+  
+
 
 
 ## Open data context
