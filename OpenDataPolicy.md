@@ -226,7 +226,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>[Macc data privacy](#macc-data-privacy)
+</td><td>Macc data privacy (Appendix 1)
 
 </td></tr></tbody></table>
 
@@ -251,7 +251,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>[Macc data quality criteria](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#bookmark=id.lkclfa30e9u8) (Appendix 1)
+</td><td>Macc data quality criteria (Appendix 1)
 
 </td></tr></tbody></table>
 
@@ -327,7 +327,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>Data formats checklist(Appendix 1)
+</td><td>Data formats checklist (Appendix 1)
 
 </td></tr></tbody></table>
 
@@ -352,7 +352,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>Macc open licence(Appendix 1)
+</td><td>Macc open licence (Appendix 1)
 
 </td></tr></tbody></table>
 
@@ -380,7 +380,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>Macc data release table(Appendix 2)
+</td><td>Macc data release table (Appendix 2)
 
 </td></tr></tbody></table>
 
@@ -405,7 +405,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>Macc open data publishing channels(Appendix 1)
+</td><td>Macc open data publishing channels (Appendix 1)
 
 </td></tr></tbody></table>
 
@@ -430,7 +430,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>Macc data publication schedule(Appendix 1)
+</td><td>Macc data publication schedule (Appendix 1)
 
 </td></tr></tbody></table>
 
