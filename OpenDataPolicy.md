@@ -225,7 +225,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>Macc data privacy (Appendix 1)
+</td><td>[Macc data privacy](#macc-data-privacy) (Appendix 1)
 
 </td></tr></tbody></table>
 
@@ -1110,11 +1110,3 @@ List of datasets released by Macc.  This list will be updated and maintained.
 </td><td>Annually
 
 </td></tr></tbody></table>
-
-  
-  
-  
-  
-  
-  
-**
