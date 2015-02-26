@@ -226,7 +226,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>[Macc data privacy](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#bookmark=id.oe43wrcd6qe4) (Appendix 1)
+</td><td>[Macc data privacy](#macc-data-privacy) (Appendix 1)
 
 </td></tr></tbody></table>
 
