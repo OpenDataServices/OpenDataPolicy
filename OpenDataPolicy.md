@@ -380,7 +380,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>[Macc data release table](https://docs.google.com/document/d/1Zk4CH_I5JM-8-OcpkN01atB0jLrhLHrSRvAfYb5rm0k/edit#bookmark=id.n3iciggel81r) (Appendix 2)
+</td><td>[Macc data release table](#macc-data-release-table) (Appendix 2)
 
 </td></tr></tbody></table>
 
@@ -890,7 +890,7 @@ When using datasets published by other organisations, Macc will always ensure th
 
 
 
-## Appendix 2: data release table (template)
+## Appendix 2: data release table (template) <a id="#macc-data-release-table"></a>
 
 ### Example: Volunteer data
   
