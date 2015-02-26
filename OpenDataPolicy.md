@@ -1,4 +1,3 @@
-**
 # Macc open data policy
   
   
