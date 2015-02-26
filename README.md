@@ -2,7 +2,7 @@
 
 # Macc Open Data Policy
 Welcome to the GiHub repository for the Open Data Policyy of Macc.
-This policy sets our our commitment to open data, and details how we will collect, process, publish and share data. 
+[The policy](https://github.com/MaccData/OpenDataPolicy/blob/master/OpenDataPolicy.md) sets our our commitment to open data, and details how we will collect, process, publish and share data. 
 To see this policy in action, [we publish our data on our website](https://www.manchestercommunitycentral.org/policy-and-influence/open-data)
 
 ## About Macc
