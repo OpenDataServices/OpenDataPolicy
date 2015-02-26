@@ -1,5 +1,6 @@
+
 # Macc open data policy
-  
+![MaccLogo](https://github.com/MaccData/OpenDataPolicy/blob/master/MaccLogo.jpg)  
   
 ### Contents
 
