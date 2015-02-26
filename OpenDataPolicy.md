@@ -380,7 +380,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>[Macc data release table](#macc-data-release-table) (Appendix 2)
+</td><td>[Macc data release table](#appendix-2-data-release-table-template-) (Appendix 2)
 
 </td></tr></tbody></table>
 
