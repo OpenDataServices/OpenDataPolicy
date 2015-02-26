@@ -225,7 +225,7 @@ Note: these best practices should be read alongside our open data workflows and 
 
 </td></tr><tr><td>See also:
 
-</td><td>[Macc data privacy](#macc-data-privacy) (Appendix 1)
+</td><td>Macc data privacy (Appendix 1)
 
 </td></tr></tbody></table>
 
@@ -889,7 +889,7 @@ When using datasets published by other organisations, Macc will always ensure th
 
 
 
-## Appendix 2: data release table (template) <a id="#macc-data-release-table"></a>
+## Appendix 2: data release table (template)
 
 ### Example: Volunteer data
   
