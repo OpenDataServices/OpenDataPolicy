@@ -94,7 +94,7 @@ What is open data and why are Macc working with it?
 
 
 ### What is open data?
-Macc subscribe following definition of open data:
+Macc subscribe to the following definition of open data:
 
   
 Open data is data that can be freely used, reused and redistributed by anyone.  
