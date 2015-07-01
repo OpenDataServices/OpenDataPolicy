@@ -63,9 +63,9 @@ This policy is also available for reuse via our |GitHub repository|
 
 
 ### About Us
-Company / Charity number
+Company / Charity number(s): 
 
-Macc is registered with the Information Commissioner: |number|
+|organisation name| is registered with the Information Commissioner: |number|
 
 Registered office: |address|
 
@@ -527,7 +527,7 @@ When preparing data for publication, we will always consider the following:
   </table>
 
 ### Data formats checklist
-When preparing data for publication, Macc will always undertake the following:
+When preparing data for publication, we will always undertake the following:
 
   <table>
     <tbody>
@@ -665,7 +665,7 @@ When seeking, collecting and receiving feedback on our data, we will always cons
         </td>
       </tr>
       <tr>
-        <td>When comments are made about Macc usage of open data, respond according to the Code of Conduct.</td>
+        <td>When comments are made about our usage of open data, respond according to the Code of Conduct.</td>
         <td></td>
       </tr>
     </tbody>
@@ -774,11 +774,11 @@ When using datasets published by other organisations, we will always ensure the 
       </tr>
       <tr>
         <td>Availability<br/>How will the data be disseminated?</td>
-        <td>The Macc open data website<br/>Registered on DataGM</td>
+        <td>Our open data website<br/>Registered on DataGM</td>
       </tr>
       <tr>
         <td>Documentation<br/>How will the data (and processes) be described?</td>
-        <td>A blog post on Macc data website<br/>Release notes on DataGM</td>
+        <td>A blog post on our data website<br/>Release notes on DataGM</td>
       </tr>
       <tr>
         <td>Updated<br/>What is the update timetable?</td>
@@ -798,7 +798,7 @@ When using datasets published by other organisations, we will always ensure the 
           Via outreach sessions<br/>
           Blog comments<br/>
           GitHub issues (technical community)<br/>
-          Usual Macc feedback processes</td>
+          Established |organisation name|  feedback processes</td>
         </tr>
         <tr>
           <td>Additional Notes</td>
@@ -810,7 +810,7 @@ When using datasets published by other organisations, we will always ensure the 
   </table>
 
 ### Appendix 3: Open data sets
-List of datasets released by |organisation name|. This list will be updated and maintained.
+List of datasets published by |organisation name|. This list will be updated and maintained.
 
   <table>
     <tbody>
@@ -834,15 +834,9 @@ List of datasets released by |organisation name|. This list will be updated and 
       </tr>
       <tr>
         <td>Funding data</td>
-        <td>Details of funding provided by Macc to other organisations</td>
+        <td>Details of funding provided by us to other organisations</td>
         <td></td>
         <td>Quarterly</td>
-      </tr>
-      <tr>
-        <td>State of the sector survey</td>
-        <td>Anonymised responses to annual survey</td>
-        <td></td>
-        <td>Annually</td>
       </tr>
     </tbody>
   </table>
