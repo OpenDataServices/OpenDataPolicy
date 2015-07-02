@@ -2,7 +2,7 @@
 Welcome to the GiHub repository for the Open Data Policy.
 
 ## About this policy
-[The policy](https://github.com/OpenDataServices/OpenDataPolicy/blob/master/OpenDataPolicy.md) sets out our commitment to open data, and details how we will collect, process, publish and share data. 
+[The policy](OpenDataPolicy.md) sets out our commitment to open data, and details how we will collect, process, publish and share data. 
 
 ## Contributions and reuse of this policy
 We welcome suggestions, comments and reuse of this policy.  
