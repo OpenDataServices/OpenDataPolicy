@@ -632,7 +632,7 @@ When publishing data openly, Macc will always check the following:
           rather than<br/>
           Macc_volunteersstats(1)-EDITED.csv
         </td>
-        <td>If a file naming convention is to be created, then update accordingly</td>
+        <td>Use the shared naming convention wherever possible: 'location-dataset-format-main.csv' (example 'oxfordshire-groups-openvcs-main.csv')</td>
       </tr>
       <tr>
         <td>When hosting data files, always ensure that the end URL is accessible, and free from any security barriers, passwords or blocks.</td>
