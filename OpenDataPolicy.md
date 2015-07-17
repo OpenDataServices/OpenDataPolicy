@@ -18,7 +18,7 @@
 
 [Appendix 1: Open data workflows](#appendix-1-open-data-workflows)
 
-[Appendix 2: Data release table (template)](#appendix-2-data-release-table)
+[Appendix 2: Data release table template](#appendix-2-data-release-table-template)
 
 [Appendix 3: Open data sets](#appendix-3-open-data-sets)
 
@@ -41,6 +41,7 @@ This document is for anyone interested in how we produce, publish and use open d
   
 ### Document history
 This is the first issue of this policy. It was first published in |date|.
+This policy is based on version 1.0 of the generic [Open Data Policy] (https://github.com/OpenDataServices/OpenDataPolicy)
 
 
 ### Feedback on this policy
@@ -703,7 +704,7 @@ When using datasets published by other organisations, we will always ensure the 
     </tbody>
   </table>
 
-## Appendix 2: data release table (template)
+## Appendix 2: data release table template
 
 ### Example: Volunteer data
 
