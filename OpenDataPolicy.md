@@ -123,7 +123,7 @@ When considering open data, we commit to the following:
 ### We will use open data
 
 * We will analyse, utilise and discuss our own data
-* We will utilise other openly available datasets to provide insight into the voluntary sector of Manchester.
+* We will utilise other openly available datasets to provide insight into the voluntary sector of |place|.
 
 ### We will support those using our data
 When making our data openly available, we maintain a set of expectations, known as our Code of Conduct. If you utilise open data published by us, we request that you consider this.
