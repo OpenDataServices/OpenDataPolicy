@@ -1,5 +1,4 @@
-# Macc open data policy
-![MaccLogo](https://github.com/MaccData/OpenDataPolicy/blob/master/MaccLogo.jpg)  
+# Open data policy 
   
 ### Contents
 
@@ -11,21 +10,21 @@
 
 [Our open data commitments](#our-open-data-commitments)
 
-[Publishing open data at Macc](#publishing-open-data-at-macc)
+[Publishing open data](#publishing-open-data)
 
-[Using open data at Macc](#using-open-data-at-macc)
+[Using open data](#using-open-data)
 
 [Data use Code of Conduct](#data-use-code-of-conduct)
 
-[Appendix 1: Macc open data workflows](#appendix-1-macc-open-data-workflows)
+[Appendix 1: Open data workflows](#appendix-1-open-data-workflows)
 
-[Appendix 2: data release table (template)](#appendix-2-data-release-table)
+[Appendix 2: Data release table (template)](#appendix-2-data-release-table)
 
-[Appendix 3: Macc open data sets](#appendix-3-macc-open-data-sets)
+[Appendix 3: Open data sets](#appendix-3-open-data-sets)
 
 
 ## Overview
-This document describes the Macc policy on open data.  
+This document describes our policy on open data.  
 
 * It includes our definition of open data.
 * It describes our best practice for how we create and publish datasets that are available for open reuse.  
@@ -37,46 +36,46 @@ Additionally, this document also describes how we utilise data that is already o
 
   
 ### Intended audiences
-This document is for anyone interested in how Macc produces, publishes and uses open data.  
+This document is for anyone interested in how we produce, publish and use open data.  
 
   
 ### Document history
-This is the first issue of this policy. It was first published in October 2014.
+This is the first issue of this policy. It was first published in |date|.
 
 
 ### Feedback on this policy
-Feedback should be provided to Macc via email - [data@macc.org.uk](mailto:data@macc.org.uk).
+Feedback should be provided via |email|.
 
 
 ### Document owners
-This policy is owned by the Chief Executive of Macc.
+This policy is owned by the |person|.
 
 
-### Other Macc information policies
-Macc’s open data policy sits alongside policies around Confidentiality, Equality and Diversity, Social Responsibility, Website Terms of Use and staff terms and conditions. 
+### Other information policies
+Our open data policy sits alongside policies around Confidentiality, Equality and Diversity, Social Responsibility, Website Terms of Use and staff terms and conditions. 
 
 
 ### Reuse of this policy
 This policy is published under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  
 [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) 
 
-This policy is also available for reuse via our GitHub repository:   [https://github.com/MaccData/OpenDataPolicy/](https://github.com/MaccData/OpenDataPolicy/) 
+This policy is also available for reuse via our |GitHub repository| 
 
 
-### About Macc
-Macc is the working name of Manchester Alliance for Community Care, a charity registered in England and Wales no. [1145921](http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithPartB.aspx?RegisteredCharityNumber=1145921&SubsidiaryNumber=0) and a company limited by guarantee no. [07788593 ](https://opencorporates.com/companies/gb/07788593)
+### About Us
+Company / Charity number(s): 
 
-Macc is registered with the Information Commissioner: Z9595019
+|organisation name| is registered with the Information Commissioner: |number|
 
-Registered office: Swan Buildings, 20 Swan Street, Manchester M4 5JW
+Registered office: |address|
 
 
 ## Open data context
-What is open data and why are Macc working with it?
+What is open data and why are we working with it?
 
 
 ### What is open data?
-Macc subscribe to the following definition of open data:
+We subscribe to the following definition of open data:
 
 >
 > Open data is data that can be freely used, reused and redistributed by anyone.  
@@ -89,11 +88,11 @@ Macc subscribe to the following definition of open data:
 
 
 ### Why open data?
-Macc are committed to a strong community and voluntary sector in Manchester. We believe that open data can assist with this ambition, through enabling transparency of our actions, in the form of open data.
+We are committed to a strong community and voluntary sector in |place|. We believe that open data can assist with this ambition, through enabling transparency of our actions, in the form of open data.
 
 
 ### Our open data goals
-When publishing data about our work, Macc have three main aims:
+When publishing data about our work, we have three main aims:
 
 * That our data is useful  
     We wish to publish data that brings value to those building a stronger community and voluntary sector.
@@ -106,14 +105,14 @@ When publishing data about our work, Macc have three main aims:
 * That our data is accessible  
     We wish to publish data in an open and accessible way, and provide regular narrative and understanding to the stakeholders.
 
-In this context, Macc aim to operate an open data policy that is robust and practical, leading to greater engagement in the issues faced by the community and voluntary sector in Manchester.
+In this context, we aim to operate an open data policy that is robust and practical, leading to greater engagement in the issues faced by the community and voluntary sector in |place|.
 
 
 ## Our open data commitments
-What is meant by open data at Macc?
+What is meant by open data at |organisation name|?
 
 
-When considering open data at Macc, we commit to the following:
+When considering open data, we commit to the following:
 
 ### We will publish data openly
 
@@ -124,25 +123,25 @@ When considering open data at Macc, we commit to the following:
 ### We will use open data
 
 * We will analyse, utilise and discuss our own data
-* We will utilise other openly available datasets to provide insight into the voluntary sector of Manchester.
+* We will utilise other openly available datasets to provide insight into the voluntary sector of |place|.
 
 ### We will support those using our data
-When making our data openly available, we maintain a set of expectations, known as our Code of Conduct. If you utilise open data published by Macc, we request that you consider this.
+When making our data openly available, we maintain a set of expectations, known as our Code of Conduct. If you utilise open data published by us, we request that you consider this.
 
 ### We will support the sector with open data
-In our work with voluntary sector organisations across the City of Manchester, we will provide advice and guidance in terms of publishing and using open data.
+In our work with voluntary sector organisations across the |place|, we will provide advice and guidance in terms of publishing and using open data.
 
 This policy provides information relevant to each of these commitments. We describe the key aspects, actions and mechanisms that we use to deliver our open data policy.
 
 
-## Publishing open data at Macc
-How will Macc publish open data?
+## Publishing open data
+How will we publish open data?
 
 ### Our principles and best practices
   
-The act of providing open data is to publish and share. Macc understand that this involves responsibility and due diligence.
+The act of providing open data is to publish and share. We understand that this involves responsibility and due diligence.
 
-When Macc publish data openly, our aim is to ensure it is of a quality to be accessed, used and understood. In doing so, we place the following expectations on our data publication.
+When we publish data openly, our aim is to ensure it is of a quality to be accessed, used and understood. In doing so, we place the following expectations on our data publication.
 
 It can often be the case that whilst data is made available openly, it is poorly structure, out-of-date, bad quality amongst other aspects. It is the intention of this policy to mitigate against such factors, via these criteria.
 
@@ -154,7 +153,7 @@ Note: these best practices should be read alongside our open data workflows and 
     <tbody>
       <tr>
         <td>Principle:</td>
-        <td>Macc open data will respect privacy.</td>
+        <td>Our open data will respect privacy.</td>
       </tr>
       <tr>
         <td>Best practice:</td>
@@ -165,7 +164,7 @@ Note: these best practices should be read alongside our open data workflows and 
       </tr>
       <tr>
         <td>See also:</td>
-        <td>Macc data privacy (Appendix 1)</td>
+        <td>Data privacy (Appendix 1)</td>
       </tr>
     </tbody>
   </table>
@@ -176,7 +175,7 @@ Note: these best practices should be read alongside our open data workflows and 
     <tbody>
       <tr>
         <td>Principle:</td>
-        <td>Macc open data will be comprehensive for the subject.</td>
+        <td>Our open data will be comprehensive for the subject.</td>
       </tr>
       <tr>
         <td>Best practice:</td>
@@ -187,7 +186,7 @@ Note: these best practices should be read alongside our open data workflows and 
       </tr>
       <tr>
         <td>See also:</td>
-        <td>Macc data quality criteria (Appendix 1)</td>
+        <td>Data quality criteria (Appendix 1)</td>
       </tr>
     </tbody>
   </table>
@@ -198,7 +197,7 @@ Note: these best practices should be read alongside our open data workflows and 
   <tbody>
     <tr>
       <td>Principle:</td>
-      <td>Macc open data will be relevant and succinct for the subject.</td>
+      <td>Our open data will be relevant and succinct for the subject.</td>
     </tr>
     <tr>
       <td>Best practice:</td>
@@ -209,7 +208,7 @@ Note: these best practices should be read alongside our open data workflows and 
     </tr>
     <tr>
       <td>See also:</td>
-      <td>Macc data segmentation (Appendix 1)</td>
+      <td>Data segmentation (Appendix 1)</td>
       </tr>
     </tbody>
   </table>
@@ -220,7 +219,7 @@ Note: these best practices should be read alongside our open data workflows and 
     <tbody>
       <tr>
         <td>Principle: </td>
-        <td>Macc open data will be interoperable.</td></tr><tr><td>Best practice:</td>
+        <td>Our open data will be interoperable.</td></tr><tr><td>Best practice:</td>
         <td>
         We will always provide codes and lookups for our data, particularly in terms of administrative geography<br />
         We will not publish data that involves jargon or acronyms that are not documented.</td></tr><tr><td>See also:</td>
@@ -238,7 +237,7 @@ Note: these best practices should be read alongside our open data workflows and 
     <tbody>
       <tr>
         <td>Principle: </td>
-        <td>Macc open data will be presented in an open and standard format.</td></tr><tr><td>Best practice:</td>
+        <td>Our open data will be presented in an open and standard format.</td></tr><tr><td>Best practice:</td>
         <td>We will publish data in common, accessible and standard formats such as CSV, XML.
 
 We will not publish open data in bespoke, redundant or proprietary formats.      </td>
@@ -259,7 +258,7 @@ We will not publish open data in bespoke, redundant or proprietary formats.     
     <tbody>
       <tr>
         <td>Principle: </td>
-        <td>Macc open data will be appropriately licenced.</td>
+        <td>Our open data will be appropriately licenced.</td>
     </tr>
     <tr>
       <td>Best practice:</td>
@@ -270,7 +269,7 @@ We will not publish open data in bespoke, redundant or proprietary formats.     
     </tr>
     <tr>
       <td>See also:</td>
-        <td>Macc open licence (Appendix 1)</td>
+        <td>Open licence (Appendix 1)</td>
       </tr>
     </tbody>
   </table>
@@ -284,7 +283,7 @@ We will not publish open data in bespoke, redundant or proprietary formats.     
     <tbody>
       <tr>
         <td>Principle: </td>
-        <td>Macc open data will always be well documented.</td>
+        <td>Our open data will always be well documented.</td>
     </tr>
     <tr>
       <td>Best practice:</td>
@@ -296,7 +295,7 @@ We will not publish open data in bespoke, redundant or proprietary formats.     
     </tr>
     <tr>
       <td>See also:</td>
-        <td>Macc data release table (Appendix 2)</td>
+        <td>Data release table (Appendix 2)</td>
       </tr>
     </tbody>
   </table>
@@ -311,7 +310,7 @@ We will not publish open data in bespoke, redundant or proprietary formats.     
       <tr>
         <td>Principle: </td>
         <td>
-          Macc will publish data in open, accessible and consistent ways.
+          Our will publish data in open, accessible and consistent ways.
         </td>
       </tr>
       <tr>
@@ -323,7 +322,7 @@ We will not publish open data in bespoke, redundant or proprietary formats.     
       </tr>
       <tr>
         <td>See also:</td>
-        <td>Macc open data publishing channels (Appendix 1)</td>
+        <td>Open data publishing channels (Appendix 1)</td>
       </tr>
     </tbody>
   </table>
@@ -337,7 +336,7 @@ We will not publish open data in bespoke, redundant or proprietary formats.     
     <tbody>
       <tr>
         <td>Principle: </td>
-        <td>Macc open data will be timely.</td>
+        <td>Our open data will be timely.</td>
       </tr>
       <tr>
         <td>Best practice:</td>
@@ -348,7 +347,7 @@ We will not publish open data in bespoke, redundant or proprietary formats.     
       </tr>
       <tr>
         <td>See also:</td>
-        <td>Macc data publication schedule (Appendix 1)</td>
+        <td>Data publication schedule (Appendix 1)</td>
       </tr>
     </tbody>
   </table>
@@ -359,7 +358,7 @@ We will not publish open data in bespoke, redundant or proprietary formats.     
     <tbody>
       <tr>
         <td>Principle: </td>
-        <td>Macc welcomes feedback and discussion of its open data.</td></tr><tr><td>Best practice:</td>
+        <td>We welcome feedback and discussion about our open data.</td></tr><tr><td>Best practice:</td>
         <td>
           We will always make it clear how to provide feedback on our open data, and any resultant actions.<br />
           We will not publish data without a feedback mechanism.
@@ -367,58 +366,58 @@ We will not publish open data in bespoke, redundant or proprietary formats.     
       </tr>
       <tr>
         <td>See also:</td>
-        <td>Macc open data feedback mechanisms (Appendix 1)</td>
+        <td>Open data feedback mechanisms (Appendix 1)</td>
       </tr>
     </tbody>
   </table>
 Feedback
-## Using open data at Macc
-How will Macc utilise open data?
+## Using open data
+How will we utilise open data?
 
 ### Our use of open data sets
-Alongside publishing our own datasets, Macc wishes to take an active role in the analysis and discussion of the insights that can be gleaned.  
+Alongside publishing our own datasets, we wish to take an active role in the analysis and discussion of the insights that can be gleaned.  
 
 For this reason, we will establish the following as part of our open data policy.
 ### Data release blog
-Alongside the formal notes and documentation on our datasets, we will maintain a blog on the main Macc website, providing narrative and information on data being released and updated.
+Alongside the formal notes and documentation on our datasets, we will maintain a blog on our main website, providing narrative and information on data being released and updated.
 
 ### Data analysis blog
-In the same forum, Macc staff will provide a form of analytical / visualisation of Macc datasets - to provide insight and stimulate discussion.
+In the same forum, our staff will provide a form of analytical / visualisation of our datasets - to provide insight and stimulate discussion.
 
 ### Using other datasets
 When we utilise other datasets in our commentary and analysis, we will always provide clear attribution and guidance as to the source of the data, and any actions we may have taken.
 
-See also: Macc attribution checklist (Appendix 1)
+See also: Attribution checklist (Appendix 1)
 
 ### Comments
 In the provision of our blog and commentary, we will be open to comments and discussion, which will be published alongside any posts. These will always be moderated, in accordance with our Code of Conduct.
 
-See also: Macc open data feedback mechanisms (Appendix 1)
+See also: Open data feedback mechanisms (Appendix 1)
 
 
 ## Data use Code of Conduct
 What do we expect from those who use our data?
 
 ### Our expectations of you
-Macc encourage others to access, use and discuss our open data. We strive towards a strong community and voluntary sector in the City of Manchester, and value the contributions and insights that can be gleaned through use of data.
+We encourage others to access, use and discuss our open data. We strive towards a strong community and voluntary sector in the |place|, and value the contributions and insights that can be gleaned through use of data.
 
 When doing so, we would hope the following basic Code of Conduct is observed:
 
 ### Accessing our data
-Much of the datasets published by Macc are succinct and easily available for download. When accessing our data, we request that you do not place unnecessary burden on our servers by making repeated data requests over a short period of time.
+Much of the datasets we publish are succinct and easily available for download. When accessing our data, we request that you do not place unnecessary burden on our servers by making repeated data requests over a short period of time.
 
 ### Attribution
 When using our data, we request that our licence is observed.  
 
-When producing any material that uses our data, please ensure an attribution to Macc is included.
+When producing any material that uses our data, please ensure an attribution to |organisation name| is included.
 
 ### Derivation
 When making use of our data, always state any steps that were made to undertake calculations or analysis that are not present in the source.
 
 ### Violations
-When using Macc data, you must not:
+When using our data, you must not:
 
-* make an application that pretends to be from the Macc organisation;
+* make an application that pretends to be from the |organisation name| organisation;
 * present the data in a misleading or incorrect manner or to misrepresent or change the data;
 * use this site for party political purposes, as the site paid for with public money so it is not appropriate to engage in party-political activity here;
 * use the data in or to support a criminal or illicit activity;
@@ -430,16 +429,16 @@ We encourage discussion of our data, and the uses. In doing so, particularly in 
 ### Feedback
 If you spot any mistakes, errors or points for clarification, please feedback via our designated channels.
 
-We also encourage requests and ideas for new data that Macc may publish. Again, please do so via our feedback channels.
+We also encourage requests and ideas for new data that we may publish. Again, please do so via our feedback channels.
 
 
-## Appendix 1: Macc open data workflows
-The following workflows and checklists are used by Macc staff in the preparation, publication and update of open data. These are linked to our open data best practices, detailed in our open data policy. Over time, Macc will update and enhance these workflows. 
+## Appendix 1: Open data workflows
+The following workflows and checklists are used by our staff in the preparation, publication and update of open data. These are linked to our open data best practices, detailed in our open data policy. Over time, we will update and enhance these workflows. 
 
 The results of all these process will always be detailed in the data release table for the relevant dataset. An example of this is listed in Appendix 2.
 
-### Macc data privacy
-When preparing any data for publication, Macc would always undertake the following:
+### Data privacy
+When preparing any data for publication, we would always undertake the following:
 
   <table>
     <tbody>
@@ -458,8 +457,8 @@ When preparing any data for publication, Macc would always undertake the followi
     </tbody>
   </table>
 
-### Macc data quality criteria
-When preparing data for publication, Macc would always undertake the following:
+### Data quality criteria
+When preparing data for publication, we would always undertake the following:
 
   <table>
     <tbody>
@@ -478,8 +477,8 @@ When preparing data for publication, Macc would always undertake the following:
     </tbody>
   </table>
 
-### Macc data segmentation
-When preparing data for publication, Macc would always undertake the following:
+### Data segmentation
+When preparing data for publication, we would always undertake the following:
 
   <table>
     <tbody>
@@ -495,7 +494,7 @@ When preparing data for publication, Macc would always undertake the following:
   </table>
 
 ### Data codes checklist
-When preparing data for publication, Macc will always consider the following:
+When preparing data for publication, we will always consider the following:
 
   
 
@@ -521,14 +520,14 @@ When preparing data for publication, Macc will always consider the following:
       </td>
       </tr>
       <tr>
-        <td>When using internal / Macc specific codes, ensure that a lookup and/or explanation is provided.</td>
+        <td>When using internal / |organisatiin name| specific codes, ensure that a lookup and/or explanation is provided.</td>
         <td>Log this in the data release table.</td>
       </tr>
     </tbody>
   </table>
 
 ### Data formats checklist
-When preparing data for publication, Macc will always undertake the following:
+When preparing data for publication, we will always undertake the following:
 
   <table>
     <tbody>
@@ -555,8 +554,8 @@ When preparing data for publication, Macc will always undertake the following:
     </tbody>
   </table>
 
-### Macc open data licence
-When publishing data, Macc will always ensure a relevant licence is provided.  
+### Open data licence
+When publishing data, we will always ensure a relevant licence is provided.  
 
 Our default licence is a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
@@ -568,7 +567,7 @@ Our default licence is a Creative Commons Attribution-ShareAlike 4.0 Internation
       </tr>
       <tr>
         <td>
-          Does the dataset fit within the default licence for Macc?<br/>
+          Does the dataset fit within the default licence for |organisation name|?<br/>
           See: <a href="http://creativecommons.org/licenses/by-sa/4.0/">http://creativecommons.org/licenses/by-sa/4.0/</a>
         </td>
         <td>
@@ -586,8 +585,8 @@ Our default licence is a Creative Commons Attribution-ShareAlike 4.0 Internation
     </tbody>
   </table>
 
-### Macc data publication schedule
-When publishing - and updating - data, Macc will always seek to ensure that this is done in a timely manner.
+### Data publication schedule
+When publishing - and updating - data, we will always seek to ensure that this is done in a timely manner.
 
   <table>
     <tbody>
@@ -616,8 +615,8 @@ When publishing - and updating - data, Macc will always seek to ensure that this
     </tbody>
   </table>
 
-### Macc open data publishing channels
-When publishing data openly, Macc will always check the following:
+### Open data publishing channels
+When publishing data openly, we will always check the following:
 
   <table>
     <tbody>
@@ -628,11 +627,11 @@ When publishing data openly, Macc will always check the following:
       <tr>
         <td>
           When creating data files, check the file name is logical, descriptive and devoid of any inconsistencies. eg:<br/>
-          Macc_volunteers_statistics.csv<br/>
+          volunteers_statistics.csv<br/>
           rather than<br/>
-          Macc_volunteersstats(1)-EDITED.csv
+          volunteersstats(1)-EDITED.csv
         </td>
-        <td>If a file naming convention is to be created, then update accordingly</td>
+        <td>Use the shared naming convention wherever possible: 'location-dataset-format-main.csv' (example 'oxfordshire-groups-openvcs-main.csv')</td>
       </tr>
       <tr>
         <td>When hosting data files, always ensure that the end URL is accessible, and free from any security barriers, passwords or blocks.</td>
@@ -641,8 +640,8 @@ When publishing data openly, Macc will always check the following:
     </tbody>
   </table>
 
-### Macc open data feedback mechanisms
-When seeking, collecting and receiving feedback on our data, Macc will always consider the following:
+### Open data feedback mechanisms
+When seeking, collecting and receiving feedback on our data, we will always consider the following:
 
   <table>
     <tbody>
@@ -666,14 +665,14 @@ When seeking, collecting and receiving feedback on our data, Macc will always co
         </td>
       </tr>
       <tr>
-        <td>When comments are made about Macc usage of open data, respond according to the Code of Conduct.</td>
+        <td>When comments are made about our usage of open data, respond according to the Code of Conduct.</td>
         <td></td>
       </tr>
     </tbody>
   </table>
 
-### Macc attribution checklist
-When using datasets published by other organisations, Macc will always ensure the following attribution considerations are provided within the context of any material we produce.  
+### Attribution checklist
+When using datasets published by other organisations, we will always ensure the following attribution considerations are provided within the context of any material we produce.  
 
   <table>
     <tbody>
@@ -712,7 +711,7 @@ When using datasets published by other organisations, Macc will always ensure th
     <tbody>
       <tr>
         <td>Data consideration</td>
-        <td>Macc response</td>
+        <td>Our response</td>
       </tr>
       <tr>
         <td>Dataset name</td>
@@ -775,11 +774,11 @@ When using datasets published by other organisations, Macc will always ensure th
       </tr>
       <tr>
         <td>Availability<br/>How will the data be disseminated?</td>
-        <td>The Macc open data website<br/>Registered on DataGM</td>
+        <td>Our open data website<br/>Registered on DataGM</td>
       </tr>
       <tr>
         <td>Documentation<br/>How will the data (and processes) be described?</td>
-        <td>A blog post on Macc data website<br/>Release notes on DataGM</td>
+        <td>A blog post on our data website<br/>Release notes on DataGM</td>
       </tr>
       <tr>
         <td>Updated<br/>What is the update timetable?</td>
@@ -799,7 +798,7 @@ When using datasets published by other organisations, Macc will always ensure th
           Via outreach sessions<br/>
           Blog comments<br/>
           GitHub issues (technical community)<br/>
-          Usual Macc feedback processes</td>
+          Established |organisation name|  feedback processes</td>
         </tr>
         <tr>
           <td>Additional Notes</td>
@@ -810,8 +809,8 @@ When using datasets published by other organisations, Macc will always ensure th
     </tbody>
   </table>
 
-### Appendix 3: Macc open data sets
-List of datasets released by Macc. This list will be updated and maintained.
+### Appendix 3: Open data sets
+List of datasets published by |organisation name|. This list will be updated and maintained.
 
   <table>
     <tbody>
@@ -835,15 +834,9 @@ List of datasets released by Macc. This list will be updated and maintained.
       </tr>
       <tr>
         <td>Funding data</td>
-        <td>Details of funding provided by Macc to other organisations</td>
+        <td>Details of funding provided by us to other organisations</td>
         <td></td>
         <td>Quarterly</td>
-      </tr>
-      <tr>
-        <td>State of the sector survey</td>
-        <td>Anonymised responses to annual survey</td>
-        <td></td>
-        <td>Annually</td>
       </tr>
     </tbody>
   </table>
