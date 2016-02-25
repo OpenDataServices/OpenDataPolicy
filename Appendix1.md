@@ -137,7 +137,7 @@ When preparing data for publication, we will check:
 | **Consideration**                                                                   | **Action**                                                    |
 |-------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | Do results for grouped information have values outside what’s normal for the group? | If yes, then check source data or reports to validate figures |
-| Are there blanks, zero or unusual dates that could be defaults (eg: 1/1/1900)?      | If numerous, then check source data. <br/>If acceptable, then record this in the data release           |                         
+| Are there blanks, zero or unusual dates that could be defaults (eg: 1/1/1900)?      | If numerous, then check source data. <br>If acceptable, then record this in the data release           |                         
 | Are date and number formats consistent across the dataset?                          | if not, then reformat to the agreed standard                  |
 | Are there duplicates for values that should be unique?                              | if yes, then check source data or reports to validate values  |
 
@@ -169,7 +169,7 @@ When preparing data for publication, we will:
 
 | **Consideration**                                                                                | **Action**                         |
 |--------------------------------------------------------------------------------------------------|------------------------------------|
-| Release spreadsheets and tables in standard open formats                                         | Release as: </br> Open Document Format for spreadsheets (.odf) </br>Comma Separated Format for flat files (.csv) |
+| Release spreadsheets and tables in standard open formats                                         | Release as: <br> Open Document Format for spreadsheets (.odf) <br>Comma Separated Format for flat files (.csv) |
 | Ensure that the format is open and accessible when working with other data standards and systems | Consider XML, JSON or RDF formats as open. Check with standard or publication organisation. |
 | Avoid publishing data in closed, proprietary and formats that make the data inaccessible.        |                                    |
 
@@ -182,8 +182,8 @@ Our default licence is a \[licence-type\]
 
 | **Consideration**                                                         | **Action**                                                                        |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| Does the dataset fit within the default licence for \[organisation\]? </br>See: \[licence-type\]  | If yes, then describe this is in the data release document </br>If no, then select alternative, and describe this is in the data release document  |
-| Does the data contain any information that is derived from other sources? | If yes, then give details of the sources is in the data release document </br>If there may be an issue with these derivations, then seek advice                  |
+| Does the dataset fit within the default licence for \[organisation\]? <br>See: \[licence-type\]  | If yes, then describe this is in the data release document <br>If no, then select alternative, and describe this is in the data release document  |
+| Does the data contain any information that is derived from other sources? | If yes, then give details of the sources is in the data release document <br>If there may be an issue with these derivations, then seek advice                  |
 
 Data release checklist (principle 8)
 ====================================
@@ -206,7 +206,7 @@ When publishing data openly, we will check:
 
 | **Consideration**                                                                                                             | **Action**                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| File names are logical, descriptive and consistent, for example: </br>volunteers\_statistics.csv rather than volunteersstats(1)-EDITED.csv | Use the shared naming convention wherever possible: 'location-dataset-format-main.csv' example: </br>'oxfordshire-groups-openvcs-main.csv' |
+| File names are logical, descriptive and consistent, for example: <br>volunteers\_statistics.csv rather than volunteersstats(1)-EDITED.csv | Use the shared naming convention wherever possible: 'location-dataset-format-main.csv' example: <br>'oxfordshire-groups-openvcs-main.csv' |
 | When hosting data files, always ensure that the file is accessible, and free from any security barriers, passwords or blocks. | If there is an issue with the link to the data file, get advice.                                                                      |
 
 Data publication schedule (principle 10)
@@ -226,7 +226,7 @@ When seeking, collecting and receiving feedback on our data, we will:
 | **Consideration**                                                                | **Action**                                                      |
 |----------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | Reply to let you know we’ve received your feedback when you send it to us online | We will let you know if we can take an action and when          |
-| Reply to feedback from face-to-face meetings or workshops                        | Where appropriate: </br>1.  Create a new issue for the related dataset(s)</br>2.  Note the source of the observation / remark</br>3.  Acknowledge we have received and / are working on the issue  |
+| Reply to feedback from face-to-face meetings or workshops                        | Where appropriate: <br>1.  Create a new issue for the related dataset(s)<br>2.  Note the source of the observation / remark<br>3.  Acknowledge we have received and / are working on the issue  |
 
 Attribution checklist (principle 13)
 ====================================
@@ -248,8 +248,8 @@ After publishing open data, we will remove or republish the dataset if:
 
 | **Consideration**                                                                                                                                                                    | **Action**                                                                        |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| We discover internally that published open data contains [*personal or sensitive personal information*](#personal-and-sensitive-personal-information)[7] about individuals           | 1.  Review the dataset against the data privacy checklist </ br>2.  Remove or re-publish the dataset if possible and appropriate                   |
-| We are notified that published open data we own or collected contains [*personal or sensitive personal information*](#personal-and-sensitive-personal-information) about individuals | 1.  Review the dataset against the data privacy checklist</ br>2.  Remove or re-publish the dataset if possible and appropriate</ br>3.  Let the notifier know the outcome |
-| We are notified that published open data from a third party contains [*personal or sensitive personal information*](#personal-and-sensitive-personal-information) about individuals  | 1.  Review the dataset against the data privacy checklist</ br>2.  Contact the owner and provide details of the issue</ br>3.  Remove or Re-publish the dataset if possible and appropriate</ br>4.  Let the notifier know the outcome               |
-| We are asked to take down published open data we own or collected for another reason                                                                                                 | 1.  Review the complaint and ask for advice where it’s needed</ br>2.  Take down the dataset if appropriate</ br>3.  Let the notifier know the outcome                                              |
-| We are asked to take down published open data we don’t own for another reason                                                                                                        | 1.  Review the complaint and ask for advice where it’s needed</ br>2.  Take down the dataset if appropriate (or the notifier is the confirmed owner)</ br>3.  Let the notifier know the outcome                                              |
+| We discover internally that published open data contains [*personal or sensitive personal information*](#personal-and-sensitive-personal-information)[7] about individuals           | 1.  Review the dataset against the data privacy checklist <br>2.  Remove or re-publish the dataset if possible and appropriate                   |
+| We are notified that published open data we own or collected contains [*personal or sensitive personal information*](#personal-and-sensitive-personal-information) about individuals | 1.  Review the dataset against the data privacy checklist<br>2.  Remove or re-publish the dataset if possible and appropriate<br>3.  Let the notifier know the outcome |
+| We are notified that published open data from a third party contains [*personal or sensitive personal information*](#personal-and-sensitive-personal-information) about individuals  | 1.  Review the dataset against the data privacy checklist<br>2.  Contact the owner and provide details of the issue<br>3.  Remove or Re-publish the dataset if possible and appropriate<br>4.  Let the notifier know the outcome               |
+| We are asked to take down published open data we own or collected for another reason                                                                                                 | 1.  Review the complaint and ask for advice where it’s needed<br>2.  Take down the dataset if appropriate<br>3.  Let the notifier know the outcome                                              |
+| We are asked to take down published open data we don’t own for another reason                                                                                                        | 1.  Review the complaint and ask for advice where it’s needed<br>2.  Take down the dataset if appropriate (or the notifier is the confirmed owner)<br>3.  Let the notifier know the outcome                                              |
