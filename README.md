@@ -14,3 +14,7 @@ If you wish to reuse the policy, then please fork the document.
 
 ## Licence
 This policy is published under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/) 
+
+## Attribution
+This is a derivative work of the [Macc Open Data Policy](https://github.com/MaccData/OpenDataPolicy) with substantial changes. Source: http://www.macc.org.uk/sites/macc.org.uk/files/Open%20Data%20Policy.pdf which is © Macc and released under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+
