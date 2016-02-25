@@ -316,12 +316,8 @@ If you spot any mistakes, errors or points for clarification, please feedback th
 
 We also encourage requests and ideas for new data that we may publish. Again, please do so through our feedback channels.
 
-Open Data Policy version 2.0 by[ ](https://github.com/OpenDataServices/OpenDataPolicy)[Open Data Services Co-operative Limited](https://github.com/OpenDataServices/OpenDataPolicy) is licenced under a[ ](http://creativecommons.org/licenses/by-sa/4.0/)[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+[Open Data Policy version 2.0](https://github.com/OpenDataServices/OpenDataPolicy) by [Open Data Services Co-operative Limited](http://opendataservices.coop/) is licenced under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-© 2015 Open Data Services Co-operative Limited
+© 2015 [Open Data Services Co-operative Limited](http://opendataservices.coop/)
 
-Contains text from the Macc Open Data Policy
-
-Source: http://www.macc.org.uk/sites/macc.org.uk/files/Open%20Data%20Policy.pdf
-
-Copyright (c) Macc - Released under the Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
+This is a derivative work of the [Macc Open Data Policy](https://github.com/MaccData/OpenDataPolicy) with substantial changes. Source: http://www.macc.org.uk/sites/macc.org.uk/files/Open%20Data%20Policy.pdf which is © Macc and released under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
