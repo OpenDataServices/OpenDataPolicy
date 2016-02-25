@@ -1,8 +1,8 @@
 # Open Data Policy
-Welcome to the GiHub repository for the Open Data Policy.
+Welcome to the GiHub repository for the Open Data Policy template.
 
 ## Version
-This is version 1.0 of the policy
+This is version 2.0 of the policy template
 
 ## About this policy
 [The policy](OpenDataPolicy.md) sets out our commitment to open data, and details how we will collect, process, publish and share data. 
