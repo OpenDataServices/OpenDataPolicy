@@ -254,10 +254,8 @@ After publishing open data, we will remove or republish the dataset if:
 | We are asked to take down published open data we own or collected for another reason                                                                                                 | 1.  Review the complaint and ask for advice where it’s needed<br>2.  Take down the dataset if appropriate<br>3.  Let the notifier know the outcome                                              |
 | We are asked to take down published open data we don’t own for another reason                                                                                                        | 1.  Review the complaint and ask for advice where it’s needed<br>2.  Take down the dataset if appropriate (or the notifier is the confirmed owner)<br>3.  Let the notifier know the outcome                                              |
 
-Appendix 1: Open data workflows by [Open Data Services Co-operative Limited](https://github.com/OpenDataServices/OpenDataPolicy) is licenced under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+[Appendix 1: Open data workflows](https://github.com/OpenDataServices/OpenDataPolicy) by [Open Data Services Co-operative Limited](http://opendataservices.coop/) is licenced under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-© 2015 Open Data Services Co-operative Limited
+© 2015 [Open Data Services Co-operative Limited](http://opendataservices.coop/)
 
-Contains text from the Macc Open Data Policy - Source: http://www.macc.org.uk/sites/macc.org.uk/files/Open%20Data%20Policy.pdf
-
-Copyright (c) Macc - Released under the Creative Commons Attribution-ShareAlike 4.0 International License http://creativecommons.org/licenses/by-sa/4.0/
+This is a derivative work of the [Macc Open Data Policy](https://github.com/MaccData/OpenDataPolicy) with substantial changes. Source: http://www.macc.org.uk/sites/macc.org.uk/files/Open%20Data%20Policy.pdf which is © Macc and released under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
