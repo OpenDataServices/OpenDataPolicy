@@ -6,6 +6,7 @@ See [git diff of changes](https://github.com/OpenDataServices/OpenDataPolicy/com
 * Split document in policy template and Appendix 1: Open data workflows
 * Dropped Appendix 2: Data release table
 * Dropped Appendix 3: Open data sets
+* Added stronger attribution statements to both documents
 
 ## New placeholders
 * [organisation]:  The name of the organisation publishing the policy
