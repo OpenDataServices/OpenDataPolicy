@@ -1,5 +1,7 @@
 # 2.0
 
+See [git diff of changes](https://github.com/OpenDataServices/OpenDataPolicy/compare/master...OpenDataServices:version2)
+
 ## Structure Changes
 * Split document in policy template and Appendix 1: Open data workflows
 * Dropped Appendix 2: Data release table
