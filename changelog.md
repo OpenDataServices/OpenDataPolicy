@@ -1,6 +1,6 @@
 # 2.0
 
-See [git diff of changes](https://github.com/OpenDataServices/OpenDataPolicy/compare/master...OpenDataServices:version2)
+See [git diff of changes](https://github.com/OpenDataServices/OpenDataPolicy/pull/10)
 
 ## Structure Changes
 * Split document in policy template and Appendix 1: Open data workflows
