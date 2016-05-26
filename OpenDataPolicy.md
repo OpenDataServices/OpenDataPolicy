@@ -190,7 +190,7 @@ The act of providing open data is to publish and share. We understand that this 
 |                |                                                                                                                                                                                                                                                 |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Principle:     | **Our open data will respect individual’s privacy**                                                                                                                                                                                             |
-| Best practice: | We will ensure our open data is free from information that can be used on it’s own or with other information to identify a living person, as outlined in the [ICO code of practice](https://ico.org.uk/media/1061/anonymisation-code.pdf). |
+| Best practice: | We will ensure our open data is free from information that can be used on its own or with other information to identify a living person, as outlined in the [ICO code of practice](https://ico.org.uk/media/1061/anonymisation-code.pdf). |
 | See also:      | Data privacy (Appendix 1: Open data workflows)                                                                                                                                                                                                  |
 
 ### Principle 2
